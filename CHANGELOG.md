@@ -1,5 +1,18 @@
 # Changelog
 
+## [8.1.0](https://github.com/luisbocanegra/plasma-panel-colorizer/compare/v8.0.0...v8.1.0) (2026-10-25)
+
+
+### Features
+
+* update Russian translation ([#581](https://github.com/luisbocanegra/plasma-panel-colorizer/issues/581)) ([7428695](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/742869501ba4589f50ffd035d7cff170420e9e46))
+* update Spanish translation ([1f9b575](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/1f9b57531b02183d793a402234f319dd5c62d187))
+
+
+### Bug Fixes
+
+* preset not saving when it gets too big ([5986a7c](https://github.com/luisbocanegra/plasma-panel-colorizer/commit/5986a7c017db1acb641eeb8c4f54f5a0d8f2c0c2)), closes [#241](https://github.com/luisbocanegra/plasma-panel-colorizer/issues/241)
+
 ## [8.0.0](https://github.com/luisbocanegra/plasma-panel-colorizer/compare/v7.3.0...v8.0.0) (2026-08-09)
 
 
